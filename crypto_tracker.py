@@ -2,17 +2,17 @@
 """
 Cryptocurrency Price Tracker (Selenium + Chrome)
 ------------------------------------------------
-ALL FEATURES INCLUDED:
+FEATURES INCLUDED:
 
-✅ Live Price Scraping (real-time data from CoinMarketCap)
-✅ Dynamic Page Handling (JavaScript-rendered content)
-✅ Top 10 Coins Data (name, symbol, price, 24h change, market cap)
-✅ CSV Export (structured, timestamped)
-✅ Headless Browser Option (background run)
-✅ Historical Logging (append new entries)
-✅ Filtering (by price range, top gainers, top losers)
-✅ Continuous Auto Logging (runs every X seconds)
-✅ Persistent Browser Session (faster, stable scraping)
+Live Price Scraping (real-time data from CoinMarketCap)
+Dynamic Page Handling (JavaScript-rendered content)
+Top 10 Coins Data (name, symbol, price, 24h change, market cap)
+CSV Export (structured, timestamped)
+Headless Browser Option (background run)
+Historical Logging (append new entries)
+Filtering (by price range, top gainers, top losers)
+Continuous Auto Logging (runs every X seconds)
+Persistent Browser Session (faster, stable scraping)
 """
 
 import argparse

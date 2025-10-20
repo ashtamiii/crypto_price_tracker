@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cryptocurrency Price Tracker
 
 A **Selenium-powered Python tool** that dynamically scrapes real-time cryptocurrency data from [CoinMarketCap](https://coinmarketcap.com/).  
@@ -38,9 +37,5 @@ Filtering by price or percentage change (optional)
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/Cryptocurrency-Price-Tracker.git
-   cd Cryptocurrency-Price-Tracker
-=======
-# crypto_price_tracker
-A Selenium-powered Python tool that dynamically scrapes real-time cryptocurrency data from [CoinMarketCap](https://coinmarketcap.com/).   Developed as part of my Project Internship at Cybernaut Edutech LLP.
->>>>>>> f18084128c94faa2d119b651677ed96e49e40efc
+   git clone https://github.com/ashtamiii/Cryptocurrency-Price-Tracker.git
+   cd Cryptocurrency_Price_Tracker
